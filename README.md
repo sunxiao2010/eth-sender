@@ -6,8 +6,8 @@
 
 发送前在packet文件中填写含有mac层的tcp报文(16进制)
 
-程序会自动填充ip checksum / tcp checksum
+程序会自动覆盖ip checksum / tcp checksum
 
 重复发送
 
-chinaunicom.com.cn
+Open source software
